@@ -1,0 +1,20 @@
+# Zurueckgezogene VG-Wort-Zaehlmarken. Die public_id bleibt hier
+# stehen, weil sie bei VG Wort registriert ist und nicht wieder
+# verwendet wird - ohne diesen Nachweis waere spaeter nicht mehr
+# feststellbar, welche Marke zu welcher Seite gehoerte.
+url,public_id,registered_at,withdrawn_at,reason
+/track-e/kl05/schedule/,00abbea1be9849cbbb8c75674c0d2cbe,2026-04-30,2026-09-09,"Navigationsseite: Linktabelle ueber die Units eines Jahrgangs, erreicht den Mindestumfang von 1800 Zeichen nicht ohne Fuelltext"
+/track-e/kl06/schedule/,024d568c37054c799cf012d69066923d,2026-04-30,2026-09-09,"Navigationsseite: Linktabelle ueber die Units eines Jahrgangs, erreicht den Mindestumfang von 1800 Zeichen nicht ohne Fuelltext"
+/track-e/kl07/schedule/,03fae6f19b6f4e71840a3c89d544caf1,2026-04-30,2026-09-09,"Navigationsseite: Linktabelle ueber die Units eines Jahrgangs, erreicht den Mindestumfang von 1800 Zeichen nicht ohne Fuelltext"
+/track-e/kl08/schedule/,05a2e6404faf44ca81eebdb863846867,2026-04-30,2026-09-09,"Navigationsseite: Linktabelle ueber die Units eines Jahrgangs, erreicht den Mindestumfang von 1800 Zeichen nicht ohne Fuelltext"
+/track-e/kl09/schedule/,07791e58108a499888f4a8c440652a26,2026-04-30,2026-09-09,"Navigationsseite: Linktabelle ueber die Units eines Jahrgangs, erreicht den Mindestumfang von 1800 Zeichen nicht ohne Fuelltext"
+/track-e/kl10/schedule/,08fc221574af428f96a1c00cbf34a9fe,2026-04-30,2026-09-09,"Navigationsseite: Linktabelle ueber die Units eines Jahrgangs, erreicht den Mindestumfang von 1800 Zeichen nicht ohne Fuelltext"
+/track-e/kl11/schedule/,0ae3f9f5c3e6437dabb3efe3345df7af,2026-04-30,2026-09-09,"Navigationsseite: Linktabelle ueber die Units eines Jahrgangs, erreicht den Mindestumfang von 1800 Zeichen nicht ohne Fuelltext"
+/track-e/kl12/schedule/,0cacd418d1464736b232b9dcb3d9ef54,2026-04-30,2026-09-09,"Navigationsseite: Linktabelle ueber die Units eines Jahrgangs, erreicht den Mindestumfang von 1800 Zeichen nicht ohne Fuelltext"
+/track-e/kl13/schedule/,0e4bc3be5b0c410db9b3be96fefbea96,2026-04-30,2026-09-09,"Navigationsseite: Linktabelle ueber die Units eines Jahrgangs, erreicht den Mindestumfang von 1800 Zeichen nicht ohne Fuelltext"
+/track-gm/kl05/schedule/,1053b8fbd294482c8678c1d53792319c,2026-04-30,2026-09-09,"Navigationsseite: Linktabelle ueber die Units eines Jahrgangs, erreicht den Mindestumfang von 1800 Zeichen nicht ohne Fuelltext"
+/track-gm/kl06/schedule/,11f6fb20072e4b28aff54e4f9bc43bd6,2026-04-30,2026-09-09,"Navigationsseite: Linktabelle ueber die Units eines Jahrgangs, erreicht den Mindestumfang von 1800 Zeichen nicht ohne Fuelltext"
+/track-gm/kl07/schedule/,13f6113e13824d7184cd67568c2f11c8,2026-04-30,2026-09-09,"Navigationsseite: Linktabelle ueber die Units eines Jahrgangs, erreicht den Mindestumfang von 1800 Zeichen nicht ohne Fuelltext"
+/track-gm/kl08/schedule/,15f068dbcbde47fe9e08ec677ce819b2,2026-04-30,2026-09-09,"Navigationsseite: Linktabelle ueber die Units eines Jahrgangs, erreicht den Mindestumfang von 1800 Zeichen nicht ohne Fuelltext"
+/track-gm/kl09/schedule/,17bf14bd12d7452b8e7b5d596fa71dfd,2026-04-30,2026-09-09,"Navigationsseite: Linktabelle ueber die Units eines Jahrgangs, erreicht den Mindestumfang von 1800 Zeichen nicht ohne Fuelltext"
+/track-gm/kl10/schedule/,195f5e649de24016a75dd8190c69233f,2026-04-30,2026-09-09,"Navigationsseite: Linktabelle ueber die Units eines Jahrgangs, erreicht den Mindestumfang von 1800 Zeichen nicht ohne Fuelltext"

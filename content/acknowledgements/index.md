@@ -56,6 +56,20 @@ To the colleagues who tested half-finished worksheets in their
 classrooms, and to every student who said "this doesn't work, try
 something else": this site is what it is because of you.
 
+## What these acknowledgements mean
+
+None of the resources named above is reproduced in the Units. Authentic
+media are linked as models of language and as starting points; the texts on
+this site are original. Where openly-licensed material is genuinely reused —
+a Creative Commons image, a public-domain extract — the attribution sits on
+the page that uses it and not only here, so that the credit travels with the
+document when somebody reuses it.
+
+The same applies in reverse. This course is offered under CC-BY, which means
+it may be copied, adapted and redistributed, including commercially, on the
+single condition that the origin is named. Nothing here needs an account, a
+login or a permanent connection.
+
 ## Licence
 
 - **Code and site scaffolding:** MIT.
